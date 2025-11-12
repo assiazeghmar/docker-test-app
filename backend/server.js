@@ -12,7 +12,7 @@ let visitors = 0;
 
 app.get('/api/hello', (req, res) => {
   res.json({ 
-    message: 'Hello from < ASIIIIIIIE IS HERE > Dockerized Backend!',
+    message: 'Hello from Dockerized Backend!',
     timestamp: new Date().toISOString()
   });
 });
@@ -35,3 +35,4 @@ app.post('/api/echo', (req, res) => {
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Backend server running on port ${PORT}`);
 });
+module.exports = app;
