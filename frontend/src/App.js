@@ -51,7 +51,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Docker  Test App 🐳</h1>
+      <h1>Docker Test App 🐳</h1>
       
       <div style={{ marginBottom: '20px', padding: '15px', backgroundColor: '#f0f0f0', borderRadius: '5px' }}>
         <h2>Backend Connection:</h2>
