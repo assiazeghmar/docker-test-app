@@ -12,7 +12,7 @@ A simple full-stack web application to demonstrate Docker containerization, feat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/docker-test-app.git
+   git clone https://github.com/assiazeghmar/docker-test-app.git
    cd docker-test-app
 
 
